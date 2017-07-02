@@ -4,7 +4,7 @@
    
    <p>
    <p> int a = input.nextInt();
-   int b = input.nextInt();
+   <n>int b = input.nextInt();</n>
    int c = input.nextInt();
    int d = input.nextInt(); </p>
    
